@@ -1,13 +1,13 @@
 # kraven
 Twitch Chat Client for Mods!
 
-Krave is part of the bigger Streamops project and it is specifically a twitch chat client for Mods.
+Kraven is part of the bigger Streamops project and it is specifically a twitch chat client for Mods.
 It is part of an effort of making twitch a bit safer.
 The ultimate goal of it becoming a three interface project with plugin support.
 
 Its core going to handle twitch functionality, background processing and analysis, and plugin loading system.
 
-It will also have three type of GUI/Iterfaces. 
+It will also have three type of GUI/Interfaces. 
 
 * TUI: Using bubbletea and charm libraries
 * Fyne: Fyne.io cross platform interface.
